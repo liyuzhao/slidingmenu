@@ -1,5 +1,6 @@
 [![](https://jitpack.io/v/liyuzhao/slidingmenu.svg)](https://jitpack.io/#liyuzhao/slidingmenu)
 
+>2.x migrate to androidx
 
 #### Step 1.
 Add it in your root build.gradle at the end of repositories:
@@ -18,7 +19,7 @@ Add the dependency
 
 ```
 	dependencies {
-	        implementation 'com.github.liyuzhao:slidingmenu:v1.0.2'
+	        implementation 'com.github.liyuzhao:slidingmenu:v2.0.0'
 	}
 
 ```
